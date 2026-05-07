@@ -3,7 +3,7 @@
 The last thing you want to do is lose your work in the middle of a complex spreadsheet. **Excel Auto-Save Controller** is a simple, easy tool to bridge the gap between manual saving and Excel's built-in recovery features. It gives you a user-controlled, intentional safety net for your most important workbooks.
 
 ### Why It Matters
-Excel does have “AutoRecover,” but it doesn’t always kick in when you need it most—like when you’re knee-deep in data entry or juggling a bunch of large files. This tool gives you back control, so you decide exactly when and how often your work is committed to disk.
+Excel does have “AutoRecover,” but it doesn’t always kick in when you need it most-like when you’re knee-deep in data entry or juggling a bunch of large files. This tool gives you back control, so you decide exactly when and how often your work is committed to disk.
 
 ### Main Features
 *   **Precision Timing:** Set your own save intervals in seconds. From a heartbeat save every minute, to a broader check every half hour, the choice is yours.
